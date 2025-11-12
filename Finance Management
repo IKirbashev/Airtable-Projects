@@ -1,0 +1,20 @@
+What it does:
+This system tracks and manages customer debts and payment schedules for a business. It consists of four main components:
+
+📋 Core Functions:
+
+Customer Management - Stores client information, contact details, and tracks problematic customers
+Contract Tracking - Records sales contracts with amounts, down payments, and installment terms
+Payment Planning - Creates scheduled payment plans with due dates and amounts
+Payment Recording - Logs actual payments received and tracks payment methods
+💰 Key Features:
+
+Calculates remaining debt balances automatically
+Tracks overdue payments and categorizes them (1-7 days, >7 days overdue)
+Monitors payment status (paid, partially paid, unpaid)
+Provides total and overdue debt summaries per customer
+Links everything together so you can see the full payment history for each client and contract
+🎯 Business Purpose: This system helps businesses manage installment sales, track who owes money, identify overdue accounts, and maintain organized records of all payment activities. It's particularly useful for companies that sell products or services on payment plans rather than requiring full payment upfront.
+
+Link to the base:
+https://airtable.com/invite/l?inviteId=invSKY67vJYwg05TH&inviteToken=e83e2f53a7e4d1baa185da223f36da4c48412bdac076c09fe110156b9b00e1c0&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
