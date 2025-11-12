@@ -1,0 +1,23 @@
+This is a personal productivity and learning management system called "Task Tracker" designed to help track skill development and goal achievement.
+
+What it does:
+🎯 Goals Management
+
+Tracks learning and professional goals with deadlines, success metrics, and progress percentages
+Categorizes goals by difficulty (Beginner/Intermediate/Advanced) and priority levels
+Links goals to specific skills that need to be developed
+💡 Skills Development
+
+Manages a library of skills to learn or improve (tools, concepts, creative, analytical)
+Tracks current proficiency levels from "Not Started" to "Mastered"
+Sets desired skill levels and monitors progress through linked tasks
+Stores learning resources and notes for each skill
+✅ Task Execution
+
+Breaks down skills and goals into actionable tasks with checklists
+Tracks task status, priorities, deadlines, and time estimates vs actual time spent
+Calculates accuracy of time estimates to improve planning
+Provides detailed descriptions and notes for each task
+
+Link to the base:
+https://airtable.com/invite/l?inviteId=inv7fT9XHT3bCJd7m&inviteToken=d6ef82a6e4f3c6a0b14e80c53f84293ebe70be22584a00cd93d1590944165951&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts  
